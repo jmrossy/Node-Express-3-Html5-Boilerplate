@@ -1,4 +1,4 @@
-#Node Express Server with HTML5 + Hogan Boilerplate
+#Node.JS Server using Express3, Hogan JS, HTML5 Boilerplate 
 Herein is a simple boilerplate Node.JS project. It's been configured with the following modules
 * Express 3 for running the server
 * Hogan-Express for it's HTML template engine
